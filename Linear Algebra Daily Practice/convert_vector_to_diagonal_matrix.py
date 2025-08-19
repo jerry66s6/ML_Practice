@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/123Cu3AiEXBXwwC2Yi_1G8lUqeCWUl3AO
 """
 
-You can earn flames again in 3h 59m 56s remaining
-
-
 import numpy as np
 
 def make_diagonal(x):
